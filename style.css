@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+.b{
+    font-weight: bold;
+}
+
+.i{
+    font-style: italic;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: blue;
+}
+._2em{
+    font-size: 2em;
+}
+._20px{
+    font-size: 20px;
+}
